@@ -6,10 +6,9 @@
 
 **Digital Architect & Science Enthusiast**
 `Founder @ Pleiades Shtar` | `Born: 01-09-2007` | `📍 India`
-
 [![](https://visitcount.itsvg.in/api?id=Unseen-exe&icon=4&color=DAF1DE)](https://visitcount.itsvg.in)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DAF1DE&background=051F2000&center=true&vCenter=true&width=500&lines=Building+Visual+Architectures;UI%2FUX+with+Figma+%26+Framer;Linux+Pop!_OS+Power+User;3+Years+of+Stealth+R%26D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DAF1DE&background=051F2000&center=true&vCenter=true&width=500&lines=Building+Visual+Architectures;UI%2FUX+with+Figma+%26+Framer;Linux+Power+User;3+Years+of+Stealth+R%26D" alt="Typing SVG" />
 
 </div>
 
